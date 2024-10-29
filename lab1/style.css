@@ -1,0 +1,36 @@
+
+
+pre {
+    background: #f7ea8c;
+    color:rgb(255, 0, 0);
+}
+
+.t {
+    color:rgb(0, 0, 0);
+}
+
+.card-game .hand {
+    margin-bottom: 20px;
+  }
+  
+  .card-game .hand h2 {
+    margin: 0 0 10px 0;
+  }
+  
+  .card-game .card {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 50px;
+    width: 50px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  }
+  
+  .card-game .card.red {
+    color: red;
+  }
